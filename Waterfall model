@@ -1,0 +1,11 @@
+
+The Waterfall Model is a traditional approach to software development that follows a linear and sequential process. It consists of several phases, and each phase must be completed before moving on to the next one. The typical phases in the Waterfall Model are:
+
+1. Requirements: Gathering and documenting the requirements for the project.
+2. Design: Creating a detailed design based on the gathered requirements.
+3. Implementation: The actual coding and programming of the software.
+4. Testing: Verifying that the software works according to the specified requirements.
+5. Deployment: Installing and deploying the software for use.
+6. Maintenance: Ongoing maintenance and support of the software.
+
+This model is often criticized for its inflexibility, as it doesn't easily accommodate changes once a phase is completed.
